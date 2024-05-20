@@ -38,36 +38,33 @@ IT 국비 지원 학원에서 외주를 받아 관리자는 강사와 학생 그
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <br/>
   
 ## 🗄 Document <br/>
-![요구분석서](https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/1.%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%EC%84%9C/4%EC%A1%B0%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%EC%84%9C.pdf)
+<div><a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/1.%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%EC%84%9C">1. 요구분석</a> </div>
 
-![순서도](https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/2.%20%EC%88%9C%EC%84%9C%EB%8F%84)
+<div><a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/2.%20%EC%88%9C%EC%84%9C%EB%8F%84">2. 순서도 </a> </div>
 
-![ERD](https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/3.%20ERD/4%EC%A1%B0%20ERD.exerd)
+<div><a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/3.%20ERD">3. ERD </a> </div>
 
-![DDL](https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/4.%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%A0%95%EC%9D%98%EC%84%9C(DDL)/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%A0%95%EC%9D%98%EC%84%9C(DDL).pdf)
+<div> <a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/4.%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%A0%95%EC%9D%98%EC%84%9C(DDL)">4. DDL </a> </div>
 
-![DML](https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/5.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EC%9D%98%EC%84%9C(DML)/4%EC%A1%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EC%9D%98%EC%84%9C(DML).pdf)
+<div> <a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/5.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EC%9D%98%EC%84%9C(DML)">5. DML </a> </div>
 
-![ANSI-SQL](https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/6.%20%EC%BF%BC%EB%A6%AC%EB%AC%B8%20%EC%A0%95%EC%9D%98%EC%84%9C(ANSI-SQL)/%EC%97%85%EB%AC%B4%20%EC%BF%BC%EB%A6%AC%EB%AC%B8(ANSI-SQL).pdf)
+<div> <a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/6.%20%EC%BF%BC%EB%A6%AC%EB%AC%B8%20%EC%A0%95%EC%9D%98%EC%84%9C(ANSI-SQL)">6. ANSI-SQL </a> </div>
 
-![PL/SQL](https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/7.%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8(PLSQL)/DB%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8(PL_SQL)%20.pdf)
+<div> <a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/7.%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8(PLSQL)"> 7. PL/SQL </a> </div>
 
-![최종 PPT](https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/8.%20PPT/%EC%98%A4%EB%9D%BC%ED%81%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%204%EC%A1%B0_%EA%B5%90%EC%9C%A1%EC%84%BC%ED%84%B0%20%20%EC%9A%B4%EC%98%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf)
+<div> <a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/8.%20PPT"> 8. PPT </a> </div>
 
-![최종 요약본](https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/9.%20%EC%B5%9C%EC%A2%85%20%EC%9A%94%EC%95%BD%EB%B3%B8/4%EC%A1%B0%20%EC%B5%9C%EC%A2%85%EC%9A%94%EC%95%BD%EB%B3%B8.pdf)
+<div> <a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/9.%20%EC%B5%9C%EC%A2%85%20%EC%9A%94%EC%95%BD%EB%B3%B8"> 9. 요약 </a> </div>
 
-![개념 모델링](https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/4.%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%A0%95%EC%9D%98%EC%84%9C(DDL))
+<div> <a href="https://github.com/juniel1299/OracleProject/blob/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/4.%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%A0%95%EC%9D%98%EC%84%9C(DDL)/4%EC%A1%B0%20%EA%B0%9C%EB%85%90%EB%AA%A8%EB%8D%B8%EB%A7%81.jpg"> 개념 모델링 </a></div>
 
 
 ## 😀  해당 프로젝트 참가 멤버
 
-|이름|깃허브 주소|비고|
-|------|---|---|
-|김민곤|https://github.com/kmggmk|테스트3|
-|김희연|https://github.com/Heey2|테스트3|
-|장원준|https://github.com/juniel1299|테스트3|
-|정원혁|https://github.com/wonhyuk21|테스트3|
-|정혜정|https://github.com/VVjD|테스트3|
+## Team
+|<img src="https://avatars.githubusercontent.com/u/127924216?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/155238712?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/62318700?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/157667022?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|[@kmggmk](https://github.com/kmggmk)|Heeyeon KIM<br/>[@Heey2](https://github.com/Heey2)|juniel1299<br/>[@juniel1299](https://github.com/juniel1299)|[@wonhyuk21](https://github.com/wonhyuk21)|[@VVjD](https://github.com/VVjD)|
 
 
 
