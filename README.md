@@ -1,25 +1,29 @@
 # 💻 Oracle SQL 프로젝트
 
-프로젝트 기간 : 2024년 2월 26일 ~ 2024년 3월 8일 (총 12일)  
-프로젝트 총 인원 : 5명
+> IT 국비 지원 학원에서 외주를 받아 관리자는 강사와 학생 그리고 학원에서 필요로 하는 전반적인 프로세스를 조율 할 수 있고 데이터를 조회 생성 수정 삭제 등을 할 수 있으며, 강사는 학생에 대한 데이터를 보고 좀 더 효율적인 관리를 할 수 있는 프로그램 제공합니다.
 
----                
+<br>
 
-## 📝 요약
+- 개발 기간 : 2024/02/26 ~ 2024/03/08
 
-IT 국비 지원 학원에서 외주를 받아 관리자는 강사와 학생 그리고 학원에서 필요로 하는 전반적인 프로세스를 조율 할 수 있고 데이터를 조회 생성 수정 삭제 등을 할 수 있으며, 강사는 학생에 대한 데이터를 보고 좀 더 효율적인 관리를 할 수 있는 프로그램을 제작하는 프로젝트를 진행하였습니다.
+- 개발 인원 : 5명
 
-<h2>  📕 Skill </h2> 
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/> <br/>
+<br>
 
-## 📂 Collaborative Software <br/>
+## 개발 환경
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   <br/> 
-<img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">   <br/> 
-<img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">  <br/> 
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <br/>
+**SKILL**  
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <br/>
 
-## 🗄 Document <br/>
+**Collaboration Tools**  
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/canva-00C4CC?style=flat-square&logo=canva&logoColor=white"> 
+<img src="https://img.shields.io/badge/googledocs-4285F4?style=flat-square&logo=googledocs&logoColor=white"> 
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white">
+
+<br>
+
+## ## 문서
 
 <div><a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/1.%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%EC%84%9C">1. 요구분석</a> </div>
 
@@ -43,7 +47,7 @@ IT 국비 지원 학원에서 외주를 받아 관리자는 강사와 학생 그
 
 <br>
 
-## 상세기능
+## 상세 기능
 
 <b> 관리자 </b>
 
