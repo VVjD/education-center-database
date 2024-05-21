@@ -23,7 +23,7 @@
 
 <br>
 
-## ## 문서
+## 문서
 
 <div><a href="https://github.com/juniel1299/OracleProject/tree/main/4%EC%A1%B0%20db%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C%20%EB%AA%A8%EC%9D%8C/1.%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%EC%84%9C">1. 요구분석</a> </div>
 
@@ -70,6 +70,10 @@
 
 ## 팀원 소개
 
+<div align="center">
+  
 | **김민곤**                                                                                                                             | **김희연**                                                                                                                           | **장원준**                                                                                                                                    | **정원혁**                                                                                                                                   | **정혜정**                                                                                                                         |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
 | [<img src="https://avatars.githubusercontent.com/u/127924216?v=4" width="150" height="150"/><br>@kmggmk](https://github.com/kmggmk) | [<img src="https://avatars.githubusercontent.com/u/155238712?v=4" width="150" height="150"/><br>@Heey2](https://github.com/Heey2) | [<img src="https://avatars.githubusercontent.com/u/62318700?v=4" width="150" height="150"/><br>@juniel1299](https://github.com/juniel1299) | [<img src="https://avatars.githubusercontent.com/u/157667022?v=4" width="150" height="150"/><br>@wonhyuk21](https://github.com/wonhyuk21) | [<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/><br>@VVjD](https://github.com/VVjD) |
+
+</div>
